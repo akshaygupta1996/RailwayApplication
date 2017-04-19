@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.3.1_812d1263013682aef3442a4d12f45fe03f13b96b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_8ccc11e7efac0a404a5a9072c0eb91626e31fd3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_31fcda0a68982325afda2e5729c88194145fb656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_98de905eea47fdbac67e8965e96984c7c2025015.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_94208c58d47873fceadf4b5ea77d0d87836af672.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_b1062f3f2acfd7c5c7bd4f73ac2dde6f41851428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\pre-dexed\debug\library-1.0.19_1ad3a8d9bb67ff284dbcda4d7b3b14d090e4d33b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_1d9575403531e65a9ccff7d68bdffef0b09b08d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_b9a0edc9f5a4509a3bbe45e7ab62f60fa7462e15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_2609483d19a8ee1292644853c835887ec95bad64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_0672f61a1e46229db118aae1cbab900c0c0265aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_c09a0d68d2d31d6c447bba7dd5de89b13af36d9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_343ccd6d3c29fde607e0fe05a7cd49da5a4f58a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_2036cd559450e08d43fbc091c0b67fd95c56e88a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Akshay\Desktop\Shubhum Projects\AudioPlayer\RailwayApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_f79c47b04699c48a3790d7afe12758238d3ed38f.jar" />
+    </item>
+
+</items>

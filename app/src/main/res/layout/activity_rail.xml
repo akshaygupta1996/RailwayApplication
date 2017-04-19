@@ -1,0 +1,136 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:weightSum="1">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:weightSum="100">
+
+        <Button
+            android:id="@+id/btnOneWay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="50"
+            android:alpha="0.8"
+            android:text="One Way"
+            android:textAllCaps="false"
+            android:textColor="@color/cardview_dark_background" />
+
+        <Button
+            android:id="@+id/btnTwoWay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="50"
+            android:alpha="0.3"
+            android:text="Two Way"
+            android:textAllCaps="false"
+            android:textColor="@color/cardview_dark_background" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:text="From :"/>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_marginTop="3dp"
+                android:layout_height="40dp">
+
+
+            <EditText
+                android:paddingLeft="10dp"
+                android:id="@+id/editFromCity"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/cardview_light_background"
+                android:hint="Enter Departure City"
+                android:textSize="18dp"/>
+        </android.support.v7.widget.CardView>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:text="To :"/>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_marginTop="3dp"
+            android:layout_height="40dp">
+
+
+            <EditText
+                android:paddingLeft="10dp"
+                android:id="@+id/editToCity"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/cardview_light_background"
+                android:hint="Enter Destination City"
+                android:textSize="18dp"/>
+        </android.support.v7.widget.CardView>
+
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:background="@color/cardview_shadow_start_color"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/btnDepDate"
+            android:text="Select Departure Date"
+            android:textAllCaps="false"
+            android:textSize="15dp"/>
+
+
+        <Button
+
+            android:layout_marginTop="10dp"
+            android:background="@color/cardview_shadow_start_color"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:textAllCaps="false"
+            android:id="@+id/btnRetDate"
+            android:text="Select Return Date"
+            android:textSize="15dp"/>
+
+        <Button
+
+            android:layout_marginTop="50dp"
+            android:id="@+id/btnSearchTrains"
+            android:background="@color/cardview_shadow_start_color"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Search Trains"
+            android:textAllCaps="false"
+            />
+    </LinearLayout>
+    </LinearLayout>
